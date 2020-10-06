@@ -42,6 +42,8 @@ const App = () => {
     ))
   };
 
+  //const searchPosts = post
+
   return (
     <div className='App'>
       {/* Add SearchBar and Posts here to render them */}
